@@ -93,3 +93,5 @@ docs/
 
 # Environment variables
 .env
+
+__prep
